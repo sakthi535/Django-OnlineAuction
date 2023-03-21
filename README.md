@@ -6,9 +6,9 @@
  <li>Password : "123"</li>
 
 <h2>Homepage</h2>
-<img src="/demo/1.PNG">
+<img src="demo/1.png">
 <h2>List Page</h2>
-<img src = "/demo/2.PNG">
+<img src = "demo/2.png">
   
 <h2>Specifications:</h2>
  
@@ -47,4 +47,4 @@ Via the Django admin interface, a site administrator will be able to view, add, 
 </li>
 
 <h2>Database design</h2>
-<img src="/demo/3.PNG">
+<img src="demo/3.png">
