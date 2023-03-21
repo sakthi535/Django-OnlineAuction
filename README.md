@@ -2,13 +2,13 @@
  Design of a proper functional eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist”.
  
  <h2>Django Admin Credentials:</h2>
- <li>UserID : "joel__jaimon"</li>
- <li>Password : "12345678rr"</li>
+ <li>UserID : "sakthi"</li>
+ <li>Password : "123"</li>
 
 <h2>Homepage</h2>
-<img src="/dem_img/1.PNG">
+<img src="/demo/1.PNG">
 <h2>List Page</h2>
-<img src = "/dem_img/2.PNG">
+<img src = "/demo/2.PNG">
   
 <h2>Specifications:</h2>
  
@@ -46,3 +46,5 @@
 Via the Django admin interface, a site administrator will be able to view, add, edit, and delete any listings, comments, and bids made on the site.
 </li>
 
+<h2>Database design</h2>
+<img src="/demo/3.PNG">
